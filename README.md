@@ -1,7 +1,3 @@
-# TP_Threds_MAGIRE_Pigier
-Tp sur les threads : système temps réel
-
-
 En nous inspirant du code du fichier  system1.c implémentons la mise en oeuvre du système en utilisant les threads
 
 #include <stdlib.h>
